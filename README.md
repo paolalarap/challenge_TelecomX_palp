@@ -78,7 +78,7 @@ El trabajo demuestra habilidades en:
 ## 👩‍💻 **Sobre la Autora**
 
 **Paola Lara**  
-EstudiAnte del programa ONE EDUCATION, a través de Alura Latam
+Estudiante del programa ONE EDUCATION, a través de Alura Latam
 Chile  
 
 Este proyecto refleja mi capacidad para transformar datos en insights accionables, comunicar hallazgos de forma clara y aportar valor estratégico a equipos de negocio y tecnología.
